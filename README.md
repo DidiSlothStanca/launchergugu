@@ -17,31 +17,28 @@ GuguOS Launcher is a **fullscreen launcher built with Python (Tkinter)**
 - 🖼️ Custom application icons and covers
 - 🎮 Automatic gamepad detection + manual rescan
 
----
 
 ## 📦 Dependencies & Installation
 
-### 🟦 Arch Linux
+### Arch Linux
 ```bash
 sudo pacman -S python python-pillow python-pygame tk
 ```
 
-### 🟥 Debian / AntiX / Ubuntu
+### Debian / AntiX / Ubuntu
 ```bash
 sudo apt install python3 python3-tk python3-pil python3-pil.imagetk python3-pygame
 ```
 
-### 🟨 Fedora
+### Fedora
 ```bash
 sudo dnf install python3 python3-tkinter python3-pillow python3-pygame
 ```
 
-### 🟩 Void Linux
+### Void Linux
 ```bash
 sudo xbps-install python3 python3-tkinter python3-Pillow python3-pygame
 ```
-
----
 
 ## 📂 Extracting & Running
 
@@ -60,7 +57,8 @@ python3 launcher_pad.py
 ./launch.sh
 ```
 ### Or
-Just Double click launch.sh if using pcmanfm
+
+### Just Double click launch.sh if using pcmanfm
 ---
 
 ## ⌨️ Keyboard Shortcuts
