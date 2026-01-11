@@ -1,4 +1,4 @@
-# 🎮 GuguOS Launcher (Gamepad-Friendly Linux Launcher)
+# 🎮 GuguOS Launcher
 
 GuguOS Launcher is a **fullscreen launcher built with Python (Tkinter)**
 ---
