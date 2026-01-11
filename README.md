@@ -55,11 +55,12 @@ cd ~/.launchergugu
 ```bash
 python3 launcher_pad.py
 ```
-###Or
+### Or
 ```bash
 ./launch.sh
 ```
-
+### Or
+Just Double click launch.sh if using pcmanfm
 ---
 
 ## ⌨️ Keyboard Shortcuts
