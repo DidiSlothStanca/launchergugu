@@ -1,9 +1,8 @@
 # 🎮 GuguOS Launcher (Gamepad-Friendly Linux Launcher)
 
-GuguOS Launcher is a **fullscreen launcher built with Python (Tkinter)**, designed to be fully usable with **keyboard and gamepad**. It is ideal for lightweight Linux distributions (AntiX, Void, Arch, etc.) as a console-style application and game launcher.
-
+GuguOS Launcher is a **fullscreen launcher built with Python (Tkinter)**
 ---
-
+![GuguOS Launcher](Gugu_3.png)
 ## ✨ Key Features
 
 - 🎮 Full navigation using **Gamepad / Keyboard**
@@ -47,15 +46,24 @@ sudo xbps-install python3 python3-tkinter python3-Pillow python3-pygame
 ## 📂 Extracting & Running
 
 ```bash
-git clone https://github.com/username/guguos-launcher.git
-cd guguos-launcher
+tar -xf launchergugu_alpha_0.0.1.tar.gz -C ~/
+```
+```bash
+cd ~/.launchergugu
+```
+## 📂 How to Launch?
+```bash
 python3 launcher_pad.py
+```
+###Or
+```bash
+./launch.sh
 ```
 
 ---
 
 ## ⌨️ Keyboard Shortcuts
-
+![GuguOS Launcher](Gugu_2.png)
 | Key | Function |
 |----|---------|
 | Arrow Keys | Navigate |
@@ -63,17 +71,6 @@ python3 launcher_pad.py
 | Backspace | Back |
 | Esc | Power Menu |
 | **S / Shift + S** | Rescan Gamepad |
-
----
-
-## 🎮 Gamepad Controls
-
-| Button | Function |
-|------|---------|
-| D-Pad / Analog Stick | Navigate |
-| Button 0 | Select |
-| Button 1 | Back |
-| Start / Options | Menu |
 
 ---
 
