@@ -69,7 +69,7 @@ python3 launcher_pad.py
 | Enter | Select / Confirm |
 | Backspace | Back |
 | Esc | Power Menu |
-| **S / Shift + S** | Rescan Gamepad |
+| F1 | Rescan Gamepad |
 
 ---
 
