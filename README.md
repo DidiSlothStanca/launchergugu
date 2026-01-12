@@ -74,5 +74,5 @@ python3 launcher_pad.py
 ---
 
 ## 📜 License
-
+https://drive.google.com/file/d/15WSd5KwngMqEj7wDd2yLSYiq3wBgj1-c/view?usp=sharing
 Free to use, modify, and distribute.
